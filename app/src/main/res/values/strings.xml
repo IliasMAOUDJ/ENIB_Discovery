@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ENIBDiscovery</string>
+
+    <string name="menu">MENU</string>
+    <string name="menu_scanner">SCANNER</string>
+    <string name="menu_jouer">JOUER</string>
+    <string name="menu_infos">INFOS</string>
+    <string name="menu_exploits">EXPLOITS</string>
+
+    <string name="menu_elec">ELECTRONIQUE</string>
+    <string name="menu_edm">ETUDE DES MATERIAUX</string>
+    <string name="menu_auto">AUTOMATISME</string>
+
+    <string name="edm_sol">SOL</string>
+
+    <string name="ball_auto">BALL</string>
+    <string name="verrin1_auto">VERRIN1</string>
+    <string name="verrin2_auto">VERRIN2</string>
+    <string name="verrin3_auto">VERRIN3</string>
+    <string name="verrin4_auto">VERRIN3</string>
+    <string name="distri1_auto">VERRIN1</string>
+    <string name="distri2_auto">VERRIN2</string>
+
+    <string name="GameTitle">u\00c9lectronique !</string>
+    <string name="verifier">Verifier</string>
+
+
+    <string name="QRCode">QRCode</string>
+    <string name="PasswordQRCode">Enter Password</string>
+    <string name="v1">V1=</string>
+    <string name="value">Value ?</string>
+    <string name="essais_restants">Essais restants</string>
+    <string name="_3">3</string>
+
+</resources>

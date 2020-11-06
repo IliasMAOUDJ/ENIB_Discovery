@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Orange"
+    android:orientation="vertical"
+    tools:context=".controller.MenuInfo">
+
+    <Button
+        android:id="@+id/programme_cours"
+        android:layout_width="match_parent"
+        android:layout_height="94dp"
+        android:background="@drawable/pdf_list_button"
+        android:backgroundTint="@color/White"
+        android:text="Le programme des cours" />
+
+    <Button
+        android:id="@+id/groupe_eni"
+        android:layout_width="match_parent"
+        android:layout_height="95dp"
+        android:background="@drawable/pdf_list_button"
+        android:backgroundTint="@color/White"
+        android:text="Le groupe ENI" />
+
+    <Button
+        android:id="@+id/formation_enib"
+        android:layout_width="match_parent"
+        android:layout_height="96dp"
+        android:background="@drawable/pdf_list_button"
+        android:backgroundTint="@color/White"
+        android:text="La Formation ENIB" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:srcCompat="@drawable/enib" />
+
+
+</LinearLayout>

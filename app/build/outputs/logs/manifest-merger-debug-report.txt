@@ -1,0 +1,311 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\33eb622aa1c894bc480ab4a0b416b5d2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\00bfd9cbf7592ab5e37487b99ba6fdb4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4c9121f9340ac4a26dfd6a4520ae7f66\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\43e55217f2a807cb2e1ff1b8dd2b0369\AndroidManifest.xml:2:1-9:12
+MERGED from [com.r0adkll:slidableactivity:2.0.6] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\slidableactivity-2.0.6.aar\3903174d65ba50d712581f44de2f3420\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.barteksc:android-pdf-viewer:3.1.0-beta.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\android-pdf-viewer-3.1.0-beta.1.aar\b5887c675007768530489da2607ef654\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3983f16048c9b556403c6b03b37ea90b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\049ddfe67d413086ef7e0c1c2cb72535\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\5888afa2203b14837cc6beada8a937ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\1c6e5cade27723febba339e3e9e1d8fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.barteksc:pdfium-android:1.9.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\pdfium-android-1.9.0.aar\07df40e533d95347747be91a8ab61db7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\52ad43b6230b80164295b95b307ce45c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\9286492957b70634d4375aa145210e11\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\7ecc896044da0b190bec8a83d43fab50\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\798d7dae81a7f878146a94f37994410e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8213857d8ed232afb7fc8f0262d9abc5\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\5344c3f7477748c64a0a1cc59a331b5c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\bf3b31cd78d9e82e62d67eb013ef16f7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4a796488b849eebde0befce96d54ff34\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\59e9e0a5c2b6f30449ee36e90f6f67e2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\4651e944814b47391b0f3a20d57f7cc9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\5d859353a1f614bffe6735feb19c7d1a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\222f9b9dcb575704b8252b055ef081ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\22667e5c4728d04d9f6cbe442bc757af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d0b8d1e4d69edc03df8282db19173fcb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\edca92615096038d8f92f42937480a7e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\5fcfdc8dd17ae8e6b24d9e095be1abb0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\d4c84c89092656ee49623faafa58da35\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\48e874b808923f6877c7aacda1931a97\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\1af810f1957496a24d7659bab9eb6a1b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\90b345f09b9f5cf36a464e5d3881cf16\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6007bc1234fc9d396bfeea6989801189\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\876ff8bbf4002a9872ee58b16caa96c2\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\322621bbfb2a1e7ec82b3c47263bbc6f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\1da936a1fc0f3c382ab355cf4d800092\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2a6ac522c25f1892fd720560d2d8e77a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\00e3171479a7093b7df200a9569307be\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b1e3c673b8c82c84a2db96fcb3bb9df5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e1a63b58809902a52d07f6bd59524cc5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ba85e2dcaf75a6c31bd87fa172eb2bb7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ba42a292760840b4743242ca2282e202\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\78b447fc10c25b4944cee8e3425335db\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\947d27e9b92cdd8822af5ac88c8189a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\907ed8f718c834bbe29620a87302b4e6\AndroidManifest.xml:17:1-22:12
+INJECTED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:5:5-7:35
+	android:required
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:7:9-32
+	android:name
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:6:9-47
+uses-permission#android.permission.CAMERA
+ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera.autofocus
+ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:11:5-70
+	android:name
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:11:19-67
+application
+ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:13:5-42:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\33eb622aa1c894bc480ab4a0b416b5d2\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\33eb622aa1c894bc480ab4a0b416b5d2\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4c9121f9340ac4a26dfd6a4520ae7f66\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4c9121f9340ac4a26dfd6a4520ae7f66\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\43e55217f2a807cb2e1ff1b8dd2b0369\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\43e55217f2a807cb2e1ff1b8dd2b0369\AndroidManifest.xml:7:5-20
+MERGED from [com.r0adkll:slidableactivity:2.0.6] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\slidableactivity-2.0.6.aar\3903174d65ba50d712581f44de2f3420\AndroidManifest.xml:9:5-20
+MERGED from [com.r0adkll:slidableactivity:2.0.6] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\slidableactivity-2.0.6.aar\3903174d65ba50d712581f44de2f3420\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\52ad43b6230b80164295b95b307ce45c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\52ad43b6230b80164295b95b307ce45c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\9286492957b70634d4375aa145210e11\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\9286492957b70634d4375aa145210e11\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\798d7dae81a7f878146a94f37994410e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\798d7dae81a7f878146a94f37994410e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8213857d8ed232afb7fc8f0262d9abc5\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8213857d8ed232afb7fc8f0262d9abc5\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\5344c3f7477748c64a0a1cc59a331b5c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\5344c3f7477748c64a0a1cc59a331b5c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\bf3b31cd78d9e82e62d67eb013ef16f7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\bf3b31cd78d9e82e62d67eb013ef16f7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4a796488b849eebde0befce96d54ff34\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4a796488b849eebde0befce96d54ff34\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\59e9e0a5c2b6f30449ee36e90f6f67e2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\59e9e0a5c2b6f30449ee36e90f6f67e2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6007bc1234fc9d396bfeea6989801189\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6007bc1234fc9d396bfeea6989801189\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\876ff8bbf4002a9872ee58b16caa96c2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\876ff8bbf4002a9872ee58b16caa96c2\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6007bc1234fc9d396bfeea6989801189\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:19:9-40
+activity#enibdiscovery.enibdiscovery.controller.Menu
+ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:20:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:24:27-74
+activity#enibdiscovery.enibdiscovery.controller.MenuScanner
+ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:27:9-60
+	android:name
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:27:19-57
+activity#enibdiscovery.enibdiscovery.controller.MenuJouer
+ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:28:9-58
+	android:name
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:28:19-55
+activity#enibdiscovery.enibdiscovery.controller.GameEdm
+ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:29:9-56
+	android:name
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:29:19-53
+activity#enibdiscovery.enibdiscovery.controller.GameElec
+ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:30:9-57
+	android:name
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:30:19-54
+activity#enibdiscovery.enibdiscovery.controller.GameAuto
+ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:31:9-57
+	android:name
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:31:19-54
+activity#enibdiscovery.enibdiscovery.controller.MenuInfo
+ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:32:9-56
+	android:name
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:32:19-54
+activity#enibdiscovery.enibdiscovery.controller.FormationENIB
+ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:33:9-61
+	android:name
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:33:19-59
+activity#enibdiscovery.enibdiscovery.controller.ProgrammeCours
+ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:34:9-62
+	android:name
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:34:19-60
+activity#enibdiscovery.enibdiscovery.controller.GroupeEni
+ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:35:9-57
+	android:name
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:35:19-55
+meta-data#preloaded_fonts
+ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:37:9-39:57
+	android:resource
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:39:13-54
+	android:name
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:38:13-43
+activity#enibdiscovery.enibdiscovery.controller.MenuPreScanner
+ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:41:9-72
+	android:name
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml:41:19-60
+uses-sdk
+INJECTED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml
+INJECTED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\33eb622aa1c894bc480ab4a0b416b5d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\33eb622aa1c894bc480ab4a0b416b5d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\00bfd9cbf7592ab5e37487b99ba6fdb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\00bfd9cbf7592ab5e37487b99ba6fdb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4c9121f9340ac4a26dfd6a4520ae7f66\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4c9121f9340ac4a26dfd6a4520ae7f66\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\43e55217f2a807cb2e1ff1b8dd2b0369\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\43e55217f2a807cb2e1ff1b8dd2b0369\AndroidManifest.xml:5:5-44
+MERGED from [com.r0adkll:slidableactivity:2.0.6] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\slidableactivity-2.0.6.aar\3903174d65ba50d712581f44de2f3420\AndroidManifest.xml:5:5-7:41
+MERGED from [com.r0adkll:slidableactivity:2.0.6] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\slidableactivity-2.0.6.aar\3903174d65ba50d712581f44de2f3420\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.barteksc:android-pdf-viewer:3.1.0-beta.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\android-pdf-viewer-3.1.0-beta.1.aar\b5887c675007768530489da2607ef654\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:3.1.0-beta.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\android-pdf-viewer-3.1.0-beta.1.aar\b5887c675007768530489da2607ef654\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3983f16048c9b556403c6b03b37ea90b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3983f16048c9b556403c6b03b37ea90b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\049ddfe67d413086ef7e0c1c2cb72535\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\049ddfe67d413086ef7e0c1c2cb72535\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\5888afa2203b14837cc6beada8a937ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\5888afa2203b14837cc6beada8a937ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\1c6e5cade27723febba339e3e9e1d8fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\1c6e5cade27723febba339e3e9e1d8fd\AndroidManifest.xml:20:5-44
+MERGED from [com.github.barteksc:pdfium-android:1.9.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\pdfium-android-1.9.0.aar\07df40e533d95347747be91a8ab61db7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.9.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\pdfium-android-1.9.0.aar\07df40e533d95347747be91a8ab61db7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\52ad43b6230b80164295b95b307ce45c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\52ad43b6230b80164295b95b307ce45c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\9286492957b70634d4375aa145210e11\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\9286492957b70634d4375aa145210e11\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\7ecc896044da0b190bec8a83d43fab50\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\7ecc896044da0b190bec8a83d43fab50\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\798d7dae81a7f878146a94f37994410e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\798d7dae81a7f878146a94f37994410e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8213857d8ed232afb7fc8f0262d9abc5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8213857d8ed232afb7fc8f0262d9abc5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\5344c3f7477748c64a0a1cc59a331b5c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\5344c3f7477748c64a0a1cc59a331b5c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\bf3b31cd78d9e82e62d67eb013ef16f7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\bf3b31cd78d9e82e62d67eb013ef16f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4a796488b849eebde0befce96d54ff34\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4a796488b849eebde0befce96d54ff34\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\59e9e0a5c2b6f30449ee36e90f6f67e2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\59e9e0a5c2b6f30449ee36e90f6f67e2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\4651e944814b47391b0f3a20d57f7cc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\4651e944814b47391b0f3a20d57f7cc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\5d859353a1f614bffe6735feb19c7d1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\5d859353a1f614bffe6735feb19c7d1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\222f9b9dcb575704b8252b055ef081ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\222f9b9dcb575704b8252b055ef081ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\22667e5c4728d04d9f6cbe442bc757af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\22667e5c4728d04d9f6cbe442bc757af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d0b8d1e4d69edc03df8282db19173fcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d0b8d1e4d69edc03df8282db19173fcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\edca92615096038d8f92f42937480a7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\edca92615096038d8f92f42937480a7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\5fcfdc8dd17ae8e6b24d9e095be1abb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\5fcfdc8dd17ae8e6b24d9e095be1abb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\d4c84c89092656ee49623faafa58da35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\d4c84c89092656ee49623faafa58da35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\48e874b808923f6877c7aacda1931a97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\48e874b808923f6877c7aacda1931a97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\1af810f1957496a24d7659bab9eb6a1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\1af810f1957496a24d7659bab9eb6a1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\90b345f09b9f5cf36a464e5d3881cf16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\90b345f09b9f5cf36a464e5d3881cf16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6007bc1234fc9d396bfeea6989801189\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6007bc1234fc9d396bfeea6989801189\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\876ff8bbf4002a9872ee58b16caa96c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\876ff8bbf4002a9872ee58b16caa96c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\322621bbfb2a1e7ec82b3c47263bbc6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\322621bbfb2a1e7ec82b3c47263bbc6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\1da936a1fc0f3c382ab355cf4d800092\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\1da936a1fc0f3c382ab355cf4d800092\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2a6ac522c25f1892fd720560d2d8e77a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2a6ac522c25f1892fd720560d2d8e77a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\00e3171479a7093b7df200a9569307be\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\00e3171479a7093b7df200a9569307be\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b1e3c673b8c82c84a2db96fcb3bb9df5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b1e3c673b8c82c84a2db96fcb3bb9df5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e1a63b58809902a52d07f6bd59524cc5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e1a63b58809902a52d07f6bd59524cc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ba85e2dcaf75a6c31bd87fa172eb2bb7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ba85e2dcaf75a6c31bd87fa172eb2bb7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ba42a292760840b4743242ca2282e202\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ba42a292760840b4743242ca2282e202\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\78b447fc10c25b4944cee8e3425335db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\78b447fc10c25b4944cee8e3425335db\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\947d27e9b92cdd8822af5ac88c8189a3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\947d27e9b92cdd8822af5ac88c8189a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\907ed8f718c834bbe29620a87302b4e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\907ed8f718c834bbe29620a87302b4e6\AndroidManifest.xml:20:5-44
+INJECTED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml
+INJECTED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4a796488b849eebde0befce96d54ff34\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml
+		ADDED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Important\COURS\Projet Cours\ENIBDiscovery\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8213857d8ed232afb7fc8f0262d9abc5\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8213857d8ed232afb7fc8f0262d9abc5\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8213857d8ed232afb7fc8f0262d9abc5\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8213857d8ed232afb7fc8f0262d9abc5\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\bf3b31cd78d9e82e62d67eb013ef16f7\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\bf3b31cd78d9e82e62d67eb013ef16f7\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\bf3b31cd78d9e82e62d67eb013ef16f7\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4a796488b849eebde0befce96d54ff34\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\59e9e0a5c2b6f30449ee36e90f6f67e2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\59e9e0a5c2b6f30449ee36e90f6f67e2\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4a796488b849eebde0befce96d54ff34\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Ilias\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4a796488b849eebde0befce96d54ff34\AndroidManifest.xml:27:13-51

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".controller.GameElec"
+    android:background="@color/Orange"
+    >
+
+
+    <ImageButton
+        android:id="@+id/r1"
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:background="?android:attr/listChoiceIndicatorMultiple"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toTopOf="@+id/r8"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/schema"
+        app:layout_constraintVertical_bias="0.407"
+        app:srcCompat="@drawable/r1k"
+        tools:ignore="ContentDescription" />
+
+    <ImageButton
+        android:id="@+id/r2"
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="24dp"
+        android:background="?android:attr/listChoiceIndicatorMultiple"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toTopOf="@+id/r10"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/r1"
+        app:layout_constraintTop_toBottomOf="@+id/schema"
+        app:layout_constraintVertical_bias="0.449"
+        app:srcCompat="@drawable/r2k"
+        tools:ignore="ContentDescription" />
+
+    <Button
+        android:id="@+id/verifier"
+        android:layout_width="86dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="4dp"
+        android:background="@drawable/rounded_button"
+        android:onClick="ConfirmLevel"
+        android:text="@string/verifier"
+        android:textColor="@color/Orange"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/schema"
+        android:layout_width="263dp"
+        android:layout_height="232dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.512"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/circuit"
+        tools:ignore="ContentDescription" />
+
+    <ImageButton
+        android:id="@+id/qtag"
+        style="@style/Widget.AppCompat.ImageButton"
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:background="@color/Orange"
+        android:scaleType="centerCrop"
+        android:src="@android:drawable/ic_menu_help"
+        app:layout_constraintBottom_toBottomOf="@+id/schema"
+        app:layout_constraintEnd_toEndOf="@+id/schema"
+        app:layout_constraintHorizontal_bias="0.817"
+        app:layout_constraintStart_toStartOf="@+id/schema"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.437"
+        tools:ignore="ContentDescription,MissingConstraints" />
+
+    <ImageButton
+        android:id="@+id/r10"
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="8dp"
+        android:background="?android:attr/listChoiceIndicatorMultiple"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toTopOf="@+id/verifier"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/r10k"
+        tools:ignore="ContentDescription" />
+
+    <ImageButton
+        android:id="@+id/target"
+        style="@style/Widget.AppCompat.ImageButton"
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:layout_marginBottom="80dp"
+        android:background="@color/Transparent"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toBottomOf="@+id/schema"
+        app:layout_constraintEnd_toEndOf="@+id/schema"
+        app:layout_constraintHorizontal_bias="0.817"
+        app:layout_constraintStart_toStartOf="@+id/schema"
+        tools:ignore="ContentDescription" />
+
+    <ImageButton
+        android:id="@+id/r8"
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginBottom="8dp"
+        android:background="?android:attr/listChoiceIndicatorMultiple"
+        android:scaleType="centerCrop"
+        android:src="@drawable/r8k"
+        app:layout_constraintBottom_toTopOf="@+id/verifier"
+        app:layout_constraintEnd_toStartOf="@+id/r10"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="ContentDescription" />
+
+    <ImageButton
+        android:id="@+id/Rules"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:background="@color/Orange"
+        android:onClick="ShowGameRules"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@android:drawable/ic_dialog_info"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/Ve"
+        android:layout_width="46dp"
+        android:layout_height="38dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:text="@string/v1"
+        android:textColor="@color/Cyan"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBaseline_toBaselineOf="@+id/tension"
+        app:layout_constraintEnd_toStartOf="@+id/tension"
+        app:layout_constraintStart_toEndOf="@+id/r1" />
+
+    <EditText
+        android:id="@+id/tension"
+        style="@style/Widget.AppCompat.AutoCompleteTextView"
+        android:layout_width="89dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="176dp"
+        android:ems="2"
+        android:hint="@string/value"
+        android:inputType="number"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        android:textColor="@color/Cyan"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/r2"
+        app:layout_constraintStart_toEndOf="@+id/Ve"
+        app:layout_constraintTop_toBottomOf="@+id/schema"
+        app:layout_constraintVertical_bias="0.777"
+        tools:ignore="Autofill" />
+
+    <TextView
+        android:id="@+id/essai_txt"
+        android:layout_width="74dp"
+        android:layout_height="46dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/essais_restants"
+        android:textColor="@color/Cyan"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/schema"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/essai"
+        android:layout_width="11dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="24dp"
+        android:text="@string/_3"
+        android:textColor="@color/Cyan"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/schema"
+        app:layout_constraintTop_toBottomOf="@+id/essai_txt" />
+
+</android.support.constraint.ConstraintLayout>

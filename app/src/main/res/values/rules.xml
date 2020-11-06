@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="TitleElec"><u>L\'\u00C9lectronique c\'est fantastique !</u></string>
+    <string name="RulesElec">Dans ce mini jeu, tu vas devoir r\u00E9aliser un circuit \u00E9lectronique.
+        Tu n\'es pas famili\u00E9 avec tous les composants ? Pas de soucis, ici pas de risque de faire griller quelque chose (quoi que ?)…
+        Fais glisser le composant que tu veux l\u00E0 o\u00F9 tu le veux. Mais y arriveras-tu du premier coup ? </string>
+
+    <string name="Consigne">La source de tension que l\'on a à disposition nous fournit 15 Volts au maximum.\n\n
+        Trouve la bonne tension à appliquer à V1 et la bonne r\u00E9sistance pour avoir un courant de 1mA. \n\n Tu as 3 essais, apres chaque tentative rat\u00E9e nous te donnerons un indice ;)</string>
+    <string name="Indice1">Indice 1: La tension aux bornes de la resistance est: U=R*I</string>
+    <string name="Indice2">Requivalent = R1+R2 !</string>
+    <string name="Perdu">Dommage ! Tu n\'as pas trouv\u00E9 la bonne solution !\n Tu vas etre redirig\u00E9 vers le menu principal.</string>
+    <string name="Victoire">Bien jou\u00E9, tu as fait ce qu\'il fallait pour avoir un courant de 1mA ! Ton circuit fonctionne comme on le souhaitait.\n Tu vas etre redirig\u00E9 vers le menu principal.</string>
+    <string name="incomplet">Valeur V1 ou r\u00E9sistance manquante</string>
+
+
+    <string name="TitleEdm"><u>L\'EDM de tout coeur on l\'aime !</u></string>
+    <string name="RulesEdm">En Etude des m\u00E9canismes, aucune difficult\u00E9 majeur ci ce n\'est … réfl\u00E9chir ! </string>
+
+    <string name="ConsigneEdm">Alors prends le temps d\'analyser la figure 3D qui t\'est pr\u00E9lsent\u00E9le et cliques sur le d\u00E9lssin 2D qui y correspond.\n Et puis sinon , c\'est simplement 1 chance sur 4 !</string>
+    <string name="Indice1Edm">Indice 1: La tension aux bornes de la resistance est: U=R*I</string>
+    <string name="Indice2Edm">Requivalent = R1+R2 !</string>
+    <string name="PerduEdm">Dommage ! Tu n\'as pas trouv\u00E9 la bonne solution !\n Tu vas etre redirig\u00E9 vers le menu principal.</string>
+    <string name="VictoireEdm">Bien jou\u00E9!\n Tu vas etre redirig\u00E9 vers le menu principal.</string>
+
+
+
+
+</resources>

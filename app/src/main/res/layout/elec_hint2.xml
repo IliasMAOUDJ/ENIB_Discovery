@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="300dp"
+    android:layout_height="100dp"
+    android:layout_gravity="center"
+    android:alwaysDrawnWithCache="false"
+    android:clipChildren="false"
+    android:clipToPadding="true"
+    android:padding="5dp"
+    app:layout_collapseParallaxMultiplier="1.0">
+
+
+    <ImageView
+        android:id="@+id/popupBg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:srcCompat="@drawable/missed_try"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="44dp" />
+
+    <TextView
+        android:id="@+id/Corps"
+        android:layout_width="268dp"
+        android:layout_height="50dp"
+        android:layout_gravity="bottom"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="8dp"
+        android:gravity="center_horizontal"
+        android:text="@string/Indice2"
+        android:textAllCaps="false"
+        android:textColor="@color/White"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:fontFamily="@font/annie_use_your_telescope"
+        app:layout_constraintBottom_toBottomOf="@+id/Retour"
+        app:layout_constraintEnd_toEndOf="@+id/popupBg"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+
+</android.support.constraint.ConstraintLayout>

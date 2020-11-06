@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context=".controller.GameAuto">
+
+    <ImageButton
+        android:id="@+id/rulesAuto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:background="@color/Grey"
+        android:onClick="ShowGameRules"
+        android:backgroundTint="@color/Transparent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@android:drawable/ic_dialog_info" />
+
+    <android.support.constraint.ConstraintLayout
+        android:id="@+id/constraintLayout2"
+        android:layout_width="360dp"
+        android:layout_height="420dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:background="@drawable/fondauto">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="160dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@android:drawable/ic_delete"
+            tools:ignore="ContentDescription" />
+    </android.support.constraint.ConstraintLayout>
+
+    <ImageView
+        android:id="@+id/imageVerrin4"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="120dp"
+        android:contentDescription="@string/verrin4_auto"
+        app:layout_constraintEnd_toEndOf="@+id/constraintLayout2"
+        app:layout_constraintTop_toTopOf="@+id/constraintLayout2"
+        app:srcCompat="@drawable/verrin4e" />
+
+    <ImageView
+        android:id="@+id/imageVerrin3"
+        android:layout_width="40dp"
+        android:layout_height="240dp"
+        android:layout_marginStart="160dp"
+        android:layout_marginBottom="140dp"
+        android:contentDescription="@string/verrin3_auto"
+        app:layout_constraintStart_toStartOf="@+id/constraintLayout2"
+        app:layout_constraintBottom_toBottomOf="@+id/constraintLayout2"
+        app:srcCompat="@drawable/verrin3s" />
+
+    <ImageView
+        android:id="@+id/imageVerrin2"
+        android:layout_width="40dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="80dp"
+        android:layout_marginBottom="180dp"
+        android:contentDescription="@string/verrin2_auto"
+        app:layout_constraintBottom_toBottomOf="@+id/constraintLayout2"
+        app:layout_constraintStart_toStartOf="@+id/constraintLayout2"
+        app:srcCompat="@drawable/verrin2e" />
+
+    <ImageView
+        android:id="@+id/imageVerrin1"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="40dp"
+        android:contentDescription="@string/verrin1_auto"
+        app:layout_constraintStart_toStartOf="@+id/constraintLayout2"
+        app:layout_constraintTop_toTopOf="@+id/constraintLayout2"
+        app:srcCompat="@drawable/verrin1e" />
+
+    <ImageButton
+        android:id="@+id/buttonDistri1"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="336dp"
+        android:padding="0dp"
+        android:scaleType="fitCenter"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/distri1"
+        tools:ignore="ContentDescription" />
+
+    <ImageButton
+        android:id="@+id/buttonDistri3"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="176dp"
+        android:layout_marginTop="336dp"
+        android:padding="0dp"
+        android:scaleType="fitCenter"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/distri1"
+        tools:ignore="ContentDescription" />
+
+    <ImageButton
+        android:id="@+id/buttonDistri2"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="96dp"
+        android:layout_marginTop="396dp"
+        android:padding="0dp"
+        android:scaleType="fitCenter"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/distri2"
+        tools:ignore="ContentDescription" />
+
+    <ImageButton
+        android:id="@+id/buttonDistri4"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="256dp"
+        android:layout_marginTop="396dp"
+        android:padding="0dp"
+        android:scaleType="fitCenter"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/distri2"
+        tools:ignore="ContentDescription" />
+
+    <ImageView
+        android:id="@+id/imageBall"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="216dp"
+        android:layout_marginTop="136dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ball"
+        tools:ignore="ContentDescription" />
+
+
+</android.support.constraint.ConstraintLayout>
